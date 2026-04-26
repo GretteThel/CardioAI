@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# data and raw datasets
+data/
+datasets/
+*.hea
+*.dat
+*.atr
+*.npy
+*.npz
+
+# model files
+checkpoints/
+models/
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# logs / outputs
+logs/
+runs/
+outputs/
+
+# colab temp
+/content/
