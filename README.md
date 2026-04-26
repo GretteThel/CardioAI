@@ -35,13 +35,12 @@ CardioAI/
 ├── requirements.txt
 ├── notebooks/
 │   └── CardioAI_workflow.ipynb
-├── configs/
-├── results/
-│   ├── figures/
-│   └── tables/
 ├── docs/
 │   ├── artefact_manifest.md
 │   └── reproduction_guide.md
+├── results/
+│   ├── figures/
+│   └── tables/
 └── appendix_assets/
 ````
 
