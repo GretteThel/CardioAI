@@ -1,6 +1,3 @@
-Here is a polished final `README.md` for the **main CardioAI repository**.
-
-````markdown
 # CardioAI
 
 CardioAI is a reproducible ECG classification workflow developed for **PTB-XL** in-domain evaluation and **PTB Diagnostic** inference-only external validation. The project integrates standardized preprocessing, beat tokenization, controlled comparison between a CNN-only baseline and a hybrid CNN–Transformer, evaluation, explainability analysis, and thesis artefact materials.
@@ -168,4 +165,3 @@ If this repository is used in connection with the CardioAI thesis or related aca
 
 CardioAI is a **research and educational project**. The models, analyses, and outputs in this repository are not validated for clinical use and must not be used as a substitute for professional medical interpretation.
 
-```
