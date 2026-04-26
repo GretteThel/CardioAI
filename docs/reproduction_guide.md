@@ -78,7 +78,7 @@ Run the workflow in the following order:
 1. Data loading and validation
 2. Preprocessing and signal standardization
 3. R-peak detection and beat tokenization
-4. Train/validation/test split setup
+4. Patient-wise train/validation/test split setup
 5. Model training
 6. Evaluation and metric generation
 7. Explainability analysis
@@ -139,7 +139,7 @@ This means:
 
 ## 10. Streamlit Demo
 
-The Streamlit-based research demo is maintained in a separate repository.
+The Streamlit-based research demo is maintained in a separate CardioAI_streamlit repository.
 
 That repository is distinct from the main CardioAI workflow repository and should be treated as a related demonstration artefact rather than the core experimental pipeline.
 
@@ -172,6 +172,6 @@ This repository is intended for:
 
 * research transparency
 * academic reproducibility
-* educational demonstration
+* educational use
 
 It is not intended for clinical deployment or medical decision-making.
