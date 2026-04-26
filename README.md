@@ -48,7 +48,7 @@ CardioAI/
 ### Main contents
 
 * **`notebooks/`**
-  Colab/Jupyter notebooks used for preprocessing, tokenization, training, evaluation, and figure generation.
+ Google Colab notebooks used for preprocessing, tokenization, training, evaluation, and figure generation
 
 * **`configs/`**
   Configuration files for experiment settings, paths, and reproducibility-related parameters.
