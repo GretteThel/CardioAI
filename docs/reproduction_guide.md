@@ -23,6 +23,8 @@ Recommended setup:
 - Google Colab or local Jupyter environment
 - GPU recommended for model training and evaluation
 
+The CardioAI workflow was primarily developed and executed in Google Colab. Users reproducing the workflow in a local Jupyter environment should ensure that package versions, file paths, and runtime settings are aligned with the repository configuration.
+
 If using Google Colab, verify that:
 
 - Google Drive is mounted correctly if files are stored there
