@@ -35,6 +35,7 @@ CardioAI/
 ├── requirements.txt
 ├── notebooks/
 │   └── CardioAI_workflow.ipynb
+|   └── Cross_Dataset_PTB_XL_PTB_Diagnostic.ipynb
 ├── docs/
 │   ├── artefact_manifest.md
 │   └── reproduction_guide.md
