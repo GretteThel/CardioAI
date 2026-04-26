@@ -102,6 +102,8 @@ Please obtain the datasets from their **official sources** and place them in you
 * Google Colab or local Jupyter environment
 * GPU recommended for model training and evaluation
 
+The workflow was primarily developed and executed in Google Colab. A local Jupyter environment may also be used, provided that package versions, dataset paths, and runtime settings are configured consistently.
+
 ### General workflow
 
 1. Install dependencies from `requirements.txt`
