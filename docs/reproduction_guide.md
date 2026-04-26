@@ -37,3 +37,5 @@ Install the required packages from:
 
 ```bash
 pip install -r requirements.txt
+
+If you are using Colab, you may need to restart the runtime after installing pinned versions.
