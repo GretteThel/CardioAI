@@ -40,6 +40,7 @@ CardioAI/
 │   ├── artefact_manifest.md
 │   └── reproduction_guide.md
 ├── results/
+│   ├── demo/
 │   ├── figures/
 │   └── tables/
 └── appendix_assets/
